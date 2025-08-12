@@ -5,5 +5,10 @@ Centralizing and standardizing decades of longitudinal aging and dementia resear
 ## Data Access
 All realigned ROSMAP data is shared on Synapse:
 https://www.synapse.org/Synapse:syn65460889
+
+## Data base
+DEG computation results at:
+https://ccb-compute.cs.uni-saarland.de/rosmap_compass_ui/
+
 ## About
 ROSMAP combines two landmark longitudinal studies of aging and Alzheimer's disease, providing comprehensive clinical, cognitive, and neuropathological data for researchers worldwide.
