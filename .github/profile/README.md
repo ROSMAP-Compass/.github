@@ -10,5 +10,12 @@ https://www.synapse.org/Synapse:syn65460889
 DEG computation results at:
 https://ccb-compute.cs.uni-saarland.de/rosmap_compass_ui/
 
+## Contributing & Issues
+
+We welcome community contributions and feedback! For project-wide discussions, feature requests, or issues that span multiple components, please visit our central issues repository:
+[Issues & Discussions](https://github.com/ROSMAP-Compass/issues)
+
+Please review the guidelines there before opening new issues to ensure they're filed in the appropriate location.
+
 ## About
 ROSMAP combines two landmark longitudinal studies of aging and Alzheimer's disease, providing comprehensive clinical, cognitive, and neuropathological data for researchers worldwide.
